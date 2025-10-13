@@ -1,1 +1,12 @@
-https://youtu.be/6qPBIsMwOGY
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My GitHub Page</title>
+</head>
+<body>
+  <h1>Welcome to My GitHub Page!</h1>
+  <h2>Watch my video below:</h2>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6qPBIsMwOGY?si=yDMNY5w4rX74Avxa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
